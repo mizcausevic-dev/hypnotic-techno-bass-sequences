@@ -1,0 +1,26 @@
+{
+  "title": "Hypnotic Techno Bass Sequences",
+  "study": "z1301",
+  "bpm": 132,
+  "source_audio": "preview/hypnotic-techno-bass-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "ed4d225681627a9617bb5278d42ff1626773e704ee07636461fcbcfed537a8ce",
+  "source_midi": "midi/z1301-hypnotic-techno-bass-sequences-opening/z1301-hypnotic-techno-bass-sequences-opening-combined.mid",
+  "source_midi_sha256": "204cde82f0237147dd4f394aedc53a7e530360149da9753908e8ca882256cc4d",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "82669c2fcaad05bdc8a8c14cc3e49525ca79ed984fb6cdf23824d6057e71e808",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "67e9a26441aafc6ecafa30c069244d85e303bb25aeff506499187628fc6d2397",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "26b047e7f441a7aaf9a8a77182c6a6c9f0ce161568dbd65be9d961640d2a63df",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

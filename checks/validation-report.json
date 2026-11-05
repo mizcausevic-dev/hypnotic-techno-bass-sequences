@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:04.367447+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0968c0f45506ea97aaf691c57ae4f35171d58709128881b3aa6936a9406d3da1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b844ac79ef75e0ca6bb412f477a58445619ef354d3137d2b4e9367e7acb244cd",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/principal_motif.mid",
+      "bytes": 775,
+      "sha256": "876155caaea638ddf33d2e56f1fcf521209dfe530051b87a098e676d1543c4ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "b8f31f94f22a4bebe163944363c1c3011a1927b082e725f4c43c6c78a9158171",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "882ccc1cf68325ef1958f6f3bf1ce5421b1c00109454117353b03f7501bc2ae0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/z1301-hypnotic-techno-bass-sequences-opening-combined.mid",
+      "bytes": 6021,
+      "sha256": "204cde82f0237147dd4f394aedc53a7e530360149da9753908e8ca882256cc4d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "42cfb5fdad9304ed73d3c93efae01a1fdf8f4d81036d8ca5fa3aef2e54d93274",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c0fd6972d82c7b3ae1c502baba27bcb736c216daa1bba184b79f708f996301e1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/principal_motif.mid",
+      "bytes": 775,
+      "sha256": "742e61a705e942c431cd3428edd9441de38e0c36fb0231587a2d64652f4ef6ad",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "8ffb01472cdee5cd7e63f13ebb54a073fbc8255e06333a5a0f1352bc230e1a1b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f03a6e08c4775ec7baa6a8c0da22b2de590e40946a20883a857451d2eba013e8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1302-hypnotic-techno-bass-sequences-variation/z1302-hypnotic-techno-bass-sequences-variation-combined.mid",
+      "bytes": 6021,
+      "sha256": "ce5b67f7816ed8b395bac247dfdc0e7412cdb1bd2f365b10d8d2fefd34fc77f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "bfde61548c5667f077955f0f1832b1c1e44602d4a197695e137e389a8b9f7642",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "10908ef83587ca42bca2c7eb2db1ca18cd0c69ed2c41c1a1d29476acf0425bb6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/principal_motif.mid",
+      "bytes": 741,
+      "sha256": "8aa14b40ede3f19ba5207647b444011221f106dc8c889a2320f321ec43f4762c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "680d3db05e0ab66236b46df0388d7d0790e0fd2adb41fa3d72cb8e4239fed5f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "600df944e7289cbbee1f027e35816238b80a91a7d8375ce2063a5a98a09e67e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1303-hypnotic-techno-bass-sequences-contrast/z1303-hypnotic-techno-bass-sequences-contrast-combined.mid",
+      "bytes": 5987,
+      "sha256": "af67a37c2d14475af650fc5f90bfd8ca10e3e2d021e5ffc0c2e55cf775e26221",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b64b089e5dd9b90ef3dde333f6db8c94f81effc2c7ac72dbfcba15db91b63bdf",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f0fafc9ada775b4146eb84bc14ae5e4cfcc25415b62089cdb4d88c3e4cb50414",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/principal_motif.mid",
+      "bytes": 743,
+      "sha256": "0fa32c862a514dfb6ca18003ac99050feaabcc04086de6314b2bba22cb3d2f7b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "dcb44658451b1dc9f7f0110b48a47d2ddd259d07b0898b175811344ceca92314",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ad8eabcbd85ca7f6beff41830f8e8313db791bd4c0ccf7b1ca67958f1b498d54",
+      "errors": []
+    },
+    {
+      "path": "midi/z1304-hypnotic-techno-bass-sequences-return/z1304-hypnotic-techno-bass-sequences-return-combined.mid",
+      "bytes": 5989,
+      "sha256": "486f6b012d87913eaea09dbf03d5f6785c09e614d1dd0b1dafa333159d74b3a0",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/hypnotic-techno-bass-sequences-simple-synth-preview.mp3",
+  "preview_sha256": "ed4d225681627a9617bb5278d42ff1626773e704ee07636461fcbcfed537a8ce",
+  "source_midi_path": "midi/z1301-hypnotic-techno-bass-sequences-opening/z1301-hypnotic-techno-bass-sequences-opening-combined.mid",
+  "source_midi_sha256": "204cde82f0237147dd4f394aedc53a7e530360149da9753908e8ca882256cc4d",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1301",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.112403,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
