@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/hypnotic-techno-bass-sequences-midi.zip",
-      "bytes": 32252,
-      "sha256": "43ae90287bb12e7244d612d7324b2e7fe0b4eefb67638c9e2c2a06baaa3c2bc9"
+      "bytes": 33239,
+      "sha256": "dd3a9f79e7273a72ec8746ee87df2ebe0eb013e0f7ef5cdb67d4faa6da2f1c7d"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10164,
-      "sha256": "31ed7a1e50e5375612a2cc7744699486cd8a59e920db01e2ed4b469513273165"
+      "bytes": 10354,
+      "sha256": "e62c7b72fb306b8df0157490c4d40ce1e6e85f9b3aaa9557f01a1fc96653e080"
     },
     {
       "path": "midi/z1301-hypnotic-techno-bass-sequences-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "486f6b012d87913eaea09dbf03d5f6785c09e614d1dd0b1dafa333159d74b3a0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/hypnotic-techno-bass-sequences-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "ed4d225681627a9617bb5278d42ff1626773e704ee07636461fcbcfed537a8ce"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4042,
-      "sha256": "184918c7e5a17f106f2acde3faee5e7aa40cf149bc93dd9fcdd0a557776aa97a"
+      "bytes": 4157,
+      "sha256": "e54d2d8f3131fc28adb35761cd086eb1526adbec68686503f40a69d1a92eca51"
     },
     {
       "path": "social/instagram/caption.txt",
